@@ -8,10 +8,10 @@ Here are some ideas to get you started:
 - 🌱 Learning about backend and more about networking and how really stuff works on platforms 
 like youtube and netflix
 - 👯 I’m open for web dev internships and looking to collaborate on web-applications...
-- 🚀 Feel free to dm me on linkedin or email me 
+- 🚀 Feel free to dm me on [linkedin](https://linkedin.com/in/subhashankar-behera) or email me at [subhashankarbehera7@gmail.com](mailto:subhashankarbehera7@gmail.com)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Subha-shankar-Behera) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Subhankar496k) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subhashankar-behera) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Subhankar496k) 
 
 # 💻 Tech Stack:
 Adding all the tectnologies that i work with would be too much so this is a brief list of what tech i use.
