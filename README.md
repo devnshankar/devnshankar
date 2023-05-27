@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 Learning about backend and more about networking and how really stuff works on platforms 
 like youtube and netflix
 - 👯 I’m open for web dev internships and looking to collaborate on web-applications...
-- 🚀 Feel free to dm me on [linkedin](https://linkedin.com/in/subhashankar-behera) or email me at [subhashankarbehera7@gmail.com](mailto:subhashankarbehera7@gmail.com)
+- 🚀 Feel free to dm me on [linkedin](https://linkedin.com/in/subhashankar-behera) or email me at [subhashankarbehera7@gmail.com](mailto:subhashankarbehera7@gmail.com).
 
 ## Connect with me  
 <div align="center">
