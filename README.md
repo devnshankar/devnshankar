@@ -29,7 +29,7 @@ like youtube and netflix
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 </div>  
-<br/>  
+<!-- <br/>   -->
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -99,9 +99,9 @@ like youtube and netflix
 </td></tr></table>  
 <br/>   
 <!-- https://discord.com/channels/1112707213753069568/1112707469987295322/1112708030434398280 -->
-<div align="center"> 
+<!-- <div align="center"> 
   <a href="https://www.buymeacoffee.com/devnshankar" target="_blank"><img src="https://media.discordapp.net/attachments/1112707469987295322/1112709797716963379/image_1.png" alt="Buy Me A Coffee" height="86" width="261"></a>
-</div>
+</div> -->
 <!-- 
 <div align="center">
     <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
