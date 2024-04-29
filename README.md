@@ -2,8 +2,8 @@
 **subhankar496k/subhankar496k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
+![nyan-cat-icegif-2](https://github.com/devnshankar/devnshankar/assets/100505729/9b9c4e5c-fa52-49e4-8a87-232d8580523c)
 [![](https://visitcount.itsvg.in/api?id=subhankar496k&icon=0&color=0)](https://visitcount.itsvg.in)
-
 ## 💫 About Me:
 - 🔭 I’m currently working on a Rust backend for a real time chat application
 - 🌱 Learning about backend and more about networking and how really stuff works on platforms 
